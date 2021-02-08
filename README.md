@@ -1,4 +1,6 @@
-# Ease
+# Ease adapted for opensuse.mu
+
+# About
 
 A versatile theme suitable for documentation. Publish your posts or business information with ease. Completely free and fully responsive, released under the MIT license.
 
